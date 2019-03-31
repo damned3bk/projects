@@ -1,4 +1,4 @@
-# projects
+# Projects by Michael Angerer
 
 This repository holds the projects i've been working on. 
 
